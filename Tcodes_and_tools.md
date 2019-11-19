@@ -14,8 +14,9 @@ created on 2019/11/18 by LiuYueyao
 * GGB0 - Validation Maintenance
 * GGB1 - Substitution Maintenance
 * VOFM - Configuration for Reqs, Formulae
-  * [An example in Japanese](./ルーチン_受注伝票Exit(与信金額自動設定).xlsx)
+  * [An example in Japanese](./documents/VOFM_example.md)
 * FIBF - Maintenance transaction BTE
-  * [An example in English](./FIBF_example.md)
+  * [An example in English](./documents/FIBF_example.md)
 * SU21 - Maintain Authorization Objects
 * SU24 - Maintain Authorization Defaults
+* ST05 - Performance Trace
