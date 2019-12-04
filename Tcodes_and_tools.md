@@ -20,3 +20,4 @@ created on 2019/11/18 by LiuYueyao
 * SU21 - Maintain Authorization Objects
 * SU24 - Maintain Authorization Defaults
 * ST05 - Performance Trace
+* SHDB - BDC recording
