@@ -13,6 +13,10 @@ created on 2019/11/18 by LiuYueyao
 * SLG1 - Application Log: Display Logs
 * GGB0 - Validation Maintenance
 * GGB1 - Substitution Maintenance
+* GGB4 - Action selection for validation/substitution
+* GCX2 - Maintain exit program
+* OB28 - Activation of FI validations
+* OBBH - Activation of FI substitutions
 * VOFM - Configuration for Reqs, Formulae
   * [An example in Japanese](./documents/VOFM_example.md)
 * FIBF - Maintenance transaction BTE
@@ -21,3 +25,8 @@ created on 2019/11/18 by LiuYueyao
 * SU24 - Maintain Authorization Defaults
 * ST05 - Performance Trace
 * SHDB - BDC recording
+* SE11 - ABAP Dictionary
+  * Domain format conversion function modules:
+
+    *domain -> definiton -> output characteristics -> routine*
+    
