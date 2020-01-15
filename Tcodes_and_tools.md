@@ -9,6 +9,7 @@ created on 2019/11/18 by LiuYueyao
 * SE18 - Business Add-Ins: Definitions
 * SE19 - Business Add-Ins: Implementations
 * SM30 - Edit table/views
+* SM12 - Lock entries
 * SLG0 - Application Log: Object Maintenance
 * SLG1 - Application Log: Display Logs
 * GGB0 - Validation Maintenance
@@ -28,5 +29,4 @@ created on 2019/11/18 by LiuYueyao
 * SE11 - ABAP Dictionary
   * Domain format conversion function modules:
 
-    *domain -> definiton -> output characteristics -> routine*
-    
+    *domain -> definition -> output characteristics -> routine*
