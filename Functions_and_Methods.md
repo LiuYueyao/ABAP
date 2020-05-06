@@ -1,6 +1,6 @@
 # Functions and Methods
 created on 2020/01/03 by LiuYueyao
-* CREATE_DYNAMIC_TABLE
+## CREATE_DYNAMIC_TABLE
   >CALL METHOD CL_ALV_TABLE_CREATE=>CREATE_DYNAMIC_TABLE  
     EXPORTING   
   \*    I_STYLE_TABLE="Type CHAR01  
@@ -20,3 +20,8 @@ created on 2020/01/03 by LiuYueyao
   IT_FIELDCATALOG: *Field Catalog, default data type char10*  
 EP_TABLE: *Pointer to Dynamic Data Table*  
 E_STYLE_FNAME:  *ALV Control: Field Name of Internal Table Field*  
+
+## Conversion of Currency Amounts into External Data Format
+  >BAPI_CURRENCY_CONV_TO_EXTERN_9
+
+  

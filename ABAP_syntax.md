@@ -74,3 +74,21 @@ TYPE TIMESTAMP format "yyyymmddhhmmss"
 
         ENDLOOP.
       ENDLOOP.
+
+## search help
+    PARAMETERS
+      P_INTTAB TYPE ZAME_MDL_TAB
+      OBLIGATORY MATCHCODE OBJECT ZAMCMS_ZAMCMT0002_MIDTABLE.
+
+## suppresses the thousands separator
+This addition suppresses the thousands separator in the output of data objects of data types i or p. In all other data types, the addition is ignored.
+For Example :
+11,00,000 it will displays like 1100000.
+
+      WRITE AMOUNT1 TO AMOUNT2 NO-GROUPING CURRENCY 'JPY'.
+
+## back to selection screen(report)
+    LEAVE SCREEN.
+
+## catch all calculation exceptions
+    CX_ROOT
